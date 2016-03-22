@@ -1,5 +1,8 @@
 # camelotpy
-Automatically exported from code.google.com/p/camelotpy
+
+Written By: Karl W. Bandilla
+
+utomatically exported from code.google.com/p/camelotpy
 
 CAMELOT is a semi-analytic model for gelogic carbon sequestration
 
