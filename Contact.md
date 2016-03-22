@@ -1,0 +1,1 @@
+The developer of CAMELOTpy, Karl Bandilla, can be reached at: KWBandilla at gmail dot com
